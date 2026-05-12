@@ -4,7 +4,7 @@
     <interface>
       <GigabitEthernet>
         <name>0/0/1</name>
-        <shutdown/>
+        <no shutdown/>
       </GigabitEthernet>
     </interface>
   </native>
